@@ -1,0 +1,25 @@
+{
+  "name": "higher-path",
+  "version": "1.0.0",
+  "description": "Higher allowed path based on a root and a given path",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/soyuka/higher-path.git"
+  },
+  "keywords": [
+    "path",
+    "resolve",
+    "high",
+    "security"
+  ],
+  "author": "soyuka",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/soyuka/higher-path/issues"
+  },
+  "homepage": "https://github.com/soyuka/higher-path#readme"
+}
